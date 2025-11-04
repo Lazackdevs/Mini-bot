@@ -1,5 +1,5 @@
 {
-  "name": "root-x-md",
+  "name": "mini-bot",
   "version": "1.0.0",
   "description": "MULTIDEVICE WHATSAPP MINI BOT",
   "main": "index.js",
@@ -31,8 +31,8 @@
     "bot",
     "multi-device",
     "baileys",
-    "sula-md"
+    "lazack-md"
   ],
-  "author": "sulaksha",
+  "author": "lazackdevs",
   "license": "MIT"
 }
