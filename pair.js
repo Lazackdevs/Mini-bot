@@ -41,9 +41,9 @@ const config = {
 };
 
 // don't change s
-const octokit = new Octokit({ auth: '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' });
-const owner = 'Dinuwh-new';
-const repo = 'Free-MD-DATABASE';
+const octokit = new Octokit({ auth: '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' });
+const owner = 'Lazack28';
+const repo = 'Lazack-Device';
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
