@@ -41,7 +41,7 @@ const config = {
 };
 
 // don't change s
-const octokit = new Octokit({ auth: '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' });
+const octokit = new Octokit({ auth: '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' });
 const owner = 'Lazack28';
 const repo = 'Lazack-Device';
 
